@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["D:\\epson\\epsonchat\\build.sbt","cbfc04c1c3064f9ca59a5e382c20c721909af3a0"],["D:\\epson\\epsonchat\\project\\plugins.sbt","14e8be8a8c3db7b85ae8ffd70f5ca6a57c2eb923"]],"lastModifiedTimes":[]}]

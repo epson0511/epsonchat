@@ -7,3 +7,9 @@ GET     /                           controllers.HomeController.index
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+
+# http://127.0.0.1:9000/db/listUsers
+GET        /db/listUsers                controllers.DbController.listUsers()
+
+# http://127.0.0.1:9000/db/showUser?id=0001
+GET        /db/showUser                controllers.DbController.showUser(id : Long)
